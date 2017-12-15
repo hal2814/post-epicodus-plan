@@ -27,3 +27,4 @@ _To summarize my goals for the coming year to push my career as a developer I wi
 #### Starting capstone checklist
 * Research how to build a Ruby Gem, begin by reading guide here: (http://guides.rubygems.org/make-your-own-gem/#introduction)
 * follow tutorial for gem creation
+* come up with descriptive name for gem that is not taken
