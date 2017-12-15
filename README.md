@@ -22,4 +22,7 @@
 
 ## Action Plan
 
-_To summarize my goals for the coming year to push my career as a developer I will be looking for companies that I feel will be a good mutual fit, I will be researching and discovering as much as possible before and while applying to tech companies. During the week I will be spending time continuing work on my capstone project and updating Github projects and readmes. I will be curating my Linkedin profile to add contacts, write recommendations and connect with peers and professionals in the industry._ 
+_To summarize my goals for the coming year to push my career as a developer I will be looking for companies that I feel will be a good mutual fit, I will be researching and discovering as much as possible before and while applying to tech companies. During the week I will be spending time continuing work on my capstone project and updating Github projects and readmes. I will be curating my Linkedin profile to add contacts, write recommendations and connect with peers and professionals in the industry._
+
+#### Starting capstone checklist
+* Research how to build a Ruby Gem
