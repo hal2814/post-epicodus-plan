@@ -1,4 +1,4 @@
-# Post Epicodus Plan
+## Post Epicodus Plan
 
 * (high) Find interesting tech companies to apply to, and go through necessary steps to apply and contact them.
 * (medium) Research companies (website, clients, Github, Glassdoor)
@@ -19,3 +19,7 @@
   -_I often find that a project does not mean much if someone cannot understand it. I want anyone who looks at highlighted projects in my Github to understand the intent and purpose of a project when looking at it._
 * #### Find interesting tech companies to apply to, and go through necessary steps to apply and contact them.
   -_It will be important to discover companies that I would find to be a good fit for me as well as me being a good fit for them. I would like to find developers that have similar interests and goals in programming._
+
+## Action Plan
+
+_To summarize my goals for the coming year to push my career as a developer I will be looking for companies that I feel will be a good mutual fit, I will be researching and discovering as much as possible before and while applying to tech companies. During the week I will be spending time continuing work on my capstone project and updating Github projects and readmes. I will be curating my Linkedin profile to add contacts, write recommendations and connect with peers and professionals in the industry._ 
