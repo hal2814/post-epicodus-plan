@@ -8,3 +8,4 @@
 * Update Github readmes to look professional at least once per day until they are all done
 * Look for Meetups to go to every week.
 * Check in with class each week, arrange meetings
+* Practice Big O notation, recursion, and other logic problems each week.
