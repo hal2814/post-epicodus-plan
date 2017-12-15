@@ -33,6 +33,9 @@ _To summarize my goals for the coming year to push my career as a developer I wi
 * Create readme framework to describe the purpose and features of the gem. Create sections to fill in as development of the gem progresses.
 * Create Gemspec file
 * Create an account with rubygems.org
+* Check specification reference
+* Test building simple gem then requiring it locally
+* successfully register gem with RubyGem.org
 
 #### About capstone project
 _I have chosen the name Intermediator because to intermediate is defined as reconciling differences between people in order to bring about an agreement. The Intermediator gem will make sure meaningful discussions do get lost in the forum process._
