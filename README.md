@@ -31,6 +31,8 @@ _To summarize my goals for the coming year to push my career as a developer I wi
 * follow tutorial for gem creation
 * come up with descriptive name for gem that is not taken (Intermediator)
 * Create readme framework to describe the purpose and features of the gem. Create sections to fill in as development of the gem progresses.
+* Create Gemspec file
+* Create an account with rubygems.org
 
 #### About capstone project
 _I have chosen the name Intermediator because to intermediate is defined as reconciling differences between people in order to bring about an agreement. The Intermediator gem will make sure meaningful discussions do get lost in the forum process._
