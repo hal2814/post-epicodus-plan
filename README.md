@@ -32,9 +32,12 @@ _To summarize my goals for the coming year to push my career as a developer I wi
 * come up with descriptive name for gem that is not taken (Intermediator)
 * Create readme framework to describe the purpose and features of the gem. Create sections to fill in as development of the gem progresses.
 * Create Gemspec file
+<img align="center" src="screen_gemspec.png">
 * Create an account with rubygems.org
+<img align="center" src="screen_rubyorg.png">
 * Check specification reference
 * Test building simple gem then requiring it locally
+<img align="center" src="screen_build.png">
 * successfully register gem with RubyGem.org
 
 #### About capstone project
