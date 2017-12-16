@@ -34,11 +34,11 @@ _To summarize my goals for the coming year to push my career as a developer I wi
 * Create Gemspec file
 <img align="center" src="screen_gemspec.png">
 * Create an account with rubygems.org
-<img align="center" src="screen_rubyorg.png">
 * Check specification reference
 * Test building simple gem then requiring it locally
 <img align="center" src="screen_build.png">
 * successfully register gem with RubyGem.org
+<img align="center" src="screen_rubyorg.png">
 
 #### About capstone project
 _I have chosen the name Intermediator because to intermediate is defined as reconciling differences between people in order to bring about an agreement. The Intermediator gem will make sure meaningful discussions do get lost in the forum process._
