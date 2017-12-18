@@ -50,4 +50,4 @@ https://github.com/hal2814/intermediator-gem
 * Add language testing for gem, to see where additional require files go in the gemspec
 
 #### About capstone project
-_I have chosen the name Egalitarian because to intermediate is defined as reconciling differences between people in order to bring about an agreement. The Egalitarian gem will make sure meaningful discussions do get lost in the forum process._
+_I have chosen the name Egalitarian because it is defined as relating to or believing in the principle that all people are equal and deserve equal rights and opportunities. The Egalitarian gem will make sure meaningful discussions do not get lost in the forum process._
